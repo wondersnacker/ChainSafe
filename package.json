@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "main": "index.html",
-  "homepage": "https://chainsafe.github.io/game-web3wallet",
+  "homepage": "https://wondersnacker.github.io/ChainSafe/",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html --public-url /game-web3wallet"
+    "build": "parcel build index.html --public-url /ChainSafe"
   },
   "dependencies": {
     "ethers": "5.5.1",
